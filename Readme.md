@@ -2,11 +2,12 @@
 <p align="left">
   <i>Full Stack Dev 💻 | Game Developer 🎮 | UI/UX Enthusiast 🎨</i><br/>
   <b>“Building cool stuff, one line at a time.”</b>
+  <img src="https://komarev.com/ghpvc/?username=Saravanan-e-2003&style=flat-square&color=brightgreen" alt="profile views"/>
 </p>
 
 
 ### 👨‍💻 About Me
----
+--
 🎓 I'm a B.Tech Information Technology student at **SNS College of Technology**, Coimbatore.  
 ⚙️ I enjoy building full-stack web apps, interactive games, and intuitive UIs.  
 🎯 Passionate about: `React.js`, `Unity`, `Tailwind CSS`, `Java`, and `Firebase`.  
@@ -15,7 +16,7 @@
 
 
 ### 🛠️ Skills & Tools
----
+--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black&style=flat-square)
@@ -32,19 +33,17 @@
 
 
 ### 🧑‍💼 Internships
----
+--
 - 🏢 **Mahat Labs Pvt Ltd** – Built a task management tool using a low-code platform.  
 - 🌐 **UNIQ Softech** – Designed frontend UI for a social media concept (*Social.ize*).  
 - 🔧 **CodeClause** – Worked on UI fixes, branding, and lead-gen tools.
 
 
 ### 📬 Contact Me
----
+--
 📧 **Email:** [saravanan.e.0503@gmail.com](mailto:saravanan.e.0503@gmail.com)  
 🌐 **Portfolio:** [saravanane.vercel.app](https://saravanane.vercel.app)  
 📍 **Location:** Coimbatore, India
-
----
 ---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanan-e-2003&theme=tokyonight" alt="streak stats"/>
