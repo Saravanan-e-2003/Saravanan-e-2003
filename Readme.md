@@ -32,19 +32,19 @@
 > ✅ Organize tasks efficiently with a clean and responsive UI.
 
 #### 🎮 Game Prototypes
-> Creative mini-games published on [Itch.io](https://yourusername.itch.io).  
+> Creative mini-games published on [Itch.io](https://noah03.itch.io/).  
 > 🕹️ Made with Unity and C#, combining gameplay mechanics and quick design.
 
 ---
 
 ### 🛠️ Skills & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black&style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=flat)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
 ---
 
