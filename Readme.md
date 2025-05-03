@@ -3,7 +3,6 @@
   <i>Full Stack Dev 💻 | Game Developer 🎮 | UI/UX Enthusiast 🎨</i><br/>
   <b>“Building cool stuff, one line at a time.”</b>
   <br>
-<img src="https://komarev.com/ghpvc/?username=Saravanan-e-2003&style=flat-square&color=1C1C1C" alt="Profile Views"/>
 </p>
 
 ---
@@ -54,3 +53,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanan-e-2003&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saravanan-e-2003&style=for-the-badge&color=1C1C1C" alt="Profile Views"/>
+</p>
+
