@@ -3,7 +3,7 @@
   <i>Full Stack Dev 💻 | Game Developer 🎮 | UI/UX Enthusiast 🎨</i><br/>
   <b>“Building cool stuff, one line at a time.”</b>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Saravanan-e-2003&style=for-the-badge&color=brightgreen" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Saravanan-e-2003&style=social" alt="Profile Views"/>
 </p>
 
 ---
