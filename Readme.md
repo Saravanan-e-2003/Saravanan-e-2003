@@ -1,55 +1,81 @@
-
-# Hello, I'm Saravanan  
-**Aspiring Full Stack Developer | Game Development Enthusiast | UI/UX Learner**
-
----
-
-## About Me  
-I am an Information Technology undergraduate from SNS College of Technology, Coimbatore, with a strong interest in full stack development, game development, and UI/UX design. I am passionate about building innovative, user-centric applications and continuously improving my skills through hands-on projects and consistent learning.
+<h1 align="center">Hi there, I'm Saravanan 👋</h1>
+<p align="center">
+  <i>Full Stack Dev 💻 | Game Developer 🎮 | UI/UX Enthusiast 🎨</i><br/>
+  <b>“Building cool stuff, one line at a time.”</b>
+</p>
 
 ---
 
-## Projects
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
-### WaveControl  
-A gesture-based desktop controller built using MediaPipe and Python.  
-**Allows users to control system volume and brightness through intuitive hand gestures.**
+### 👨‍💻 About Me
 
-### FinApp  
-A financial management system developed with Unity and SQLite.  
-**Helps users efficiently track income and expenses through a simple, interactive interface.**
-
-### Boardify  
-A task management system utilizing the Kanban board methodology.  
-**Designed with React, Firebase, and Tailwind CSS to support project organization and productivity.**
-
-### Game Prototypes  
-Developed and published multiple game prototypes on [Itch.io](https://yourusername.itch.io) using Unity and C#.  
-**Explores creative gameplay mechanics and design in small, polished games.**
+🎓 I'm a B.Tech Information Technology student at **SNS College of Technology**, Coimbatore.  
+⚙️ I enjoy building full-stack web apps, interactive games, and intuitive UIs.  
+🎯 Passionate about: `React.js`, `Unity`, `Tailwind CSS`, `Python`, and `Firebase`.  
+🧠 Always learning — currently exploring **React + Node.js** full-stack development.
 
 ---
 
-## Technical Skills
-- **Languages:** JavaScript, C#, Python, Embedded C  
-- **Frameworks & Tools:** React.js, Firebase, Unity, Tailwind CSS, MediaPipe  
-- **Soft Skills:** Problem-Solving, Time Management, Team Collaboration  
-- **Areas of Interest:** Full Stack Web Development, Game Development, UI/UX Design
+### 🚀 Projects
+
+#### 🔊 WaveControl
+> Gesture-controlled desktop utility using **MediaPipe + Python**.  
+> 💡 Control brightness and volume with just hand gestures.
+
+#### 💰 FinApp
+> Personal finance manager built with **Unity + SQLite**.  
+> 📊 Track income, expenses, and gain financial insights.
+
+#### 🧠 Boardify
+> Kanban-style task management system using **React + Firebase**.  
+> ✅ Organize tasks efficiently with a clean and responsive UI.
+
+#### 🎮 Game Prototypes
+> Creative mini-games published on [Itch.io](https://yourusername.itch.io).  
+> 🕹️ Made with Unity and C#, combining gameplay mechanics and quick design.
 
 ---
 
-## Internships
-- **Mahat Labs Pvt Ltd** – Contributed to the development of an internal task management platform using low-code tools.  
-- **UNIQ Softech** – Focused on frontend development and created a mock social media UI named *Social.ize*.  
-- **CodeClause** – Assisted with UI enhancements, branding, and lead generation initiatives.
+### 🛠️ Skills & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black&style=flat)
+![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white&style=flat)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
 
 ---
 
-## Contact  
-- **Email:** saravanan.e.0503@gmail.com  
-- **Portfolio:** [saravanane.vercel.app](https://saravanane.vercel.app)  
-- **Location:** Coimbatore, India  
+### 🧑‍💼 Internships
+
+- 🏢 **Mahat Labs Pvt Ltd** – Built a task management tool using a low-code platform.  
+- 🌐 **UNIQ Softech** – Designed frontend UI for a social media concept (*Social.ize*).  
+- 🔧 **CodeClause** – Worked on UI fixes, branding, and lead-gen tools.
 
 ---
 
-## Footer  
-**This portfolio was built using React and Tailwind CSS. All projects are the result of continuous learning and passion for technology.**
+### 📬 Contact Me
+
+📧 **Email:** [saravanan.e.0503@gmail.com](mailto:saravanan.e.0503@gmail.com)  
+🌐 **Portfolio:** [saravanane.vercel.app](https://saravanane.vercel.app)  
+📍 **Location:** Coimbatore, India
+
+---
+
+### ⚡ Fun Footer  
+> 💡 *Built using React.js & Tailwind CSS.*  
+> 🧪 Tested on caffeine ☕ and late-night code marathons 🌙  
+> 🚀 Let's build something awesome together!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saravanan0503&style=flat-square&color=brightgreen" alt="profile views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanan0503&theme=tokyonight" alt="streak stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan0503&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
