@@ -47,8 +47,9 @@
 ---
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Saravanan-e-2003&style=flat-square&color=brightgreen" alt="profile views"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanan-e-2003&theme=tokyonight" alt="streak stats"/>
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanan-e-2003&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
