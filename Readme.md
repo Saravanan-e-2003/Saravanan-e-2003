@@ -9,7 +9,7 @@
 ---
 🎓 I'm a B.Tech Information Technology student at **SNS College of Technology**, Coimbatore.  
 ⚙️ I enjoy building full-stack web apps, interactive games, and intuitive UIs.  
-🎯 Passionate about: `React.js`, `Unity`, `Tailwind CSS`, `Python`, and `Firebase`.  
+🎯 Passionate about: `React.js`, `Unity`, `Tailwind CSS`, `Java`, and `Firebase`.  
 🧠 Always learning — currently exploring **React + Node.js** full-stack development.
 
 
