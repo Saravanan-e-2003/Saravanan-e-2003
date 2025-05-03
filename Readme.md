@@ -3,7 +3,7 @@
   <i>Full Stack Dev 💻 | Game Developer 🎮 | UI/UX Enthusiast 🎨</i><br/>
   <b>“Building cool stuff, one line at a time.”</b>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Saravanan-e-2003&style=flat-square&color=brightgreen" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Saravanan-e-2003&style=for-the-badge&color=brightgreen" alt="profile views"/>
 </p>
 
 ---
@@ -45,6 +45,7 @@
 📧 **Email:** [saravanan.e.0503@gmail.com](mailto:saravanan.e.0503@gmail.com)  
 🌐 **Portfolio:** [saravanane.vercel.app](https://saravanane.vercel.app)  
 📍 **Location:** Coimbatore, India
+
 ---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanan-e-2003&theme=tokyonight" alt="streak stats"/>
