@@ -1,24 +1,21 @@
-<h1 align="center">Hi there, I'm Saravanan 👋</h1>
-<p align="center">
+<h1 align="left">Hi there, I'm Saravanan 👋</h1>
+<p align="left">
   <i>Full Stack Dev 💻 | Game Developer 🎮 | UI/UX Enthusiast 🎨</i><br/>
   <b>“Building cool stuff, one line at a time.”</b>
 </p>
 
----
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 
 ### 👨‍💻 About Me
-
+---
 🎓 I'm a B.Tech Information Technology student at **SNS College of Technology**, Coimbatore.  
 ⚙️ I enjoy building full-stack web apps, interactive games, and intuitive UIs.  
 🎯 Passionate about: `React.js`, `Unity`, `Tailwind CSS`, `Python`, and `Firebase`.  
 🧠 Always learning — currently exploring **React + Node.js** full-stack development.
 
----
+
 
 ### 🛠️ Skills & Tools
-
+---
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black&style=flat-square)
@@ -33,31 +30,22 @@
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
 
----
 
 ### 🧑‍💼 Internships
-
+---
 - 🏢 **Mahat Labs Pvt Ltd** – Built a task management tool using a low-code platform.  
 - 🌐 **UNIQ Softech** – Designed frontend UI for a social media concept (*Social.ize*).  
 - 🔧 **CodeClause** – Worked on UI fixes, branding, and lead-gen tools.
 
----
 
 ### 📬 Contact Me
-
+---
 📧 **Email:** [saravanan.e.0503@gmail.com](mailto:saravanan.e.0503@gmail.com)  
 🌐 **Portfolio:** [saravanane.vercel.app](https://saravanane.vercel.app)  
 📍 **Location:** Coimbatore, India
 
 ---
-
-### ⚡ Fun Footer  
-> 💡 *Built using React.js & Tailwind CSS.*  
-> 🧪 Tested on caffeine ☕ and late-night code marathons 🌙  
-> 🚀 Let's build something awesome together!
-
 ---
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saravanan-e-2003&style=flat-square&color=brightgreen" alt="profile views"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanan-e-2003&theme=tokyonight" alt="streak stats"/>
