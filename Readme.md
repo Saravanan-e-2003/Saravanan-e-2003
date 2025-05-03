@@ -17,26 +17,6 @@
 
 ---
 
-### 🚀 Projects
-
-#### 🔊 WaveControl
-> Gesture-controlled desktop utility using **MediaPipe + Python**.  
-> 💡 Control brightness and volume with just hand gestures.
-
-#### 💰 FinApp
-> Personal finance manager built with **Unity + SQLite**.  
-> 📊 Track income, expenses, and gain financial insights.
-
-#### 🧠 Boardify
-> Kanban-style task management system using **React + Firebase**.  
-> ✅ Organize tasks efficiently with a clean and responsive UI.
-
-#### 🎮 Game Prototypes
-> Creative mini-games published on [Itch.io](https://noah03.itch.io/).  
-> 🕹️ Made with Unity and C#, combining gameplay mechanics and quick design.
-
----
-
 ### 🛠️ Skills & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
@@ -52,7 +32,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
-
 
 ---
 
