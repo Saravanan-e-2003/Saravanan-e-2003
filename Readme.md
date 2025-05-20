@@ -46,14 +46,14 @@
 📍 **Location:** Coimbatore, India
 
 ---
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saravanan-e-2003&theme=tokyonight" alt="streak stats"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanan-e-2003&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Saravanan-e-2003&style=for-the-badge&color=1C1C1C" alt="Profile Views"/>
 </p>
 
