@@ -42,7 +42,7 @@
 ### 📬 Contact Me
 
 📧 **Email:** [saravanan.e.0503@gmail.com](mailto:saravanan.e.0503@gmail.com)  
-🌐 **Portfolio:** [saravanane.vercel.app](https://saravanane.vercel.app)  
+🌐 **Portfolio:** [saravanan-e.tech](https://www.saravanan-e.tech/)  
 📍 **Location:** Coimbatore, India
 
 ---
